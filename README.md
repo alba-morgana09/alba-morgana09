@@ -3,7 +3,7 @@
 > **CÓDIGO SEGURO. IMPACTO EFICIENTE.**  
 > *Engenharia de Software & Segurança baseada em dados e processos.*
 
-![Banner do Portfólio](./portifolio-banner.png)
+
 
 ---
 
