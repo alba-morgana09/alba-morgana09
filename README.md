@@ -3,7 +3,7 @@
 > **CÓDIGO SEGURO. IMPACTO EFICIENTE.**  
 > *Engenharia de Software & Segurança baseada em dados e processos.*
 
-![Portfólio Banner - Alba Morgana](./portifolio-banner.png)
+![Banner do Portfólio](./portifolio-banner.png)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Sou uma desenvolvedora focada na construção de sistemas de backend resilientes e stacks de observabilidade empresarial, com uma forte bagagem analítica originada na otimização de fluxos internacionais de Comércio Exterior. 
 
-Eu crio soluções que unem integridade de dados, performance e detecção de ameaças em tempo real para aplicações de alta disponibilidade (cite: 25).
+Eu crio soluções que unem integridade de dados, performance e detecção de ameaças em tempo real para aplicações de alta disponibilidade.
 
 ---
 
@@ -28,14 +28,14 @@ Eu crio soluções que unem integridade de dados, performance e detecção de am
 
 *   **Backend & Segurança:** Java 17+, Spring Boot, SQL Server, Segurança de API (DevSecOps).
 *   **Observabilidade e Telemetria:** OpenTelemetry, Prometheus, Grafana, Rastreamento Distribuído, Registro Estruturado (JSON).
-*   **Áreas de atuação:** Logística, Conformidade Comercial, Integridade de Dados, Sistemas em Nuvem (cite: 25).
+*   **Áreas de atuação:** Logística, Conformidade Comercial, Integridade de Dados, Sistemas em Nuvem.
 
 ---
 
 ### 🚀 Projetos de Arquitetura de Sistemas e Observabilidade
 
-*   📡 **[API de Telemetria AgroGuard]:** Pipeline de monitoramento em tempo real com OpenTelemetry e Grafana, focado na segurança de cargas sensíveis (cite: 13, 25).
-*   ⚡ **[Base de registro de logs do Java Enterprise]:** Arquitetura de registro de logs JSON padronizada para APIs de alto desempenho (cite: 25).
+*   📡 **[API de Telemetria AgroGuard]:** Pipeline de monitoramento em tempo real com OpenTelemetry e Grafana, focado na segurança de cargas sensíveis.
+*   ⚡ **[Base de registro de logs do Java Enterprise]:** Arquitetura de registro de logs JSON padronizada para APIs de alto desempenho.
 
 ---
 
