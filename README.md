@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, vinda do **Comércio Exteri
 - **Conceitos aplicados:** integridade de dados (hash SHA-256), trilha de auditoria, tratamento de erros em API
 
 ## Em estudo
-PostgreSQL, [outros itens que você está estudando de verdade]
+PostgreSQL
 
 ## Projetos
 - **[AgroGuard API](https://github.com/alba-morgana09/agroguard)**: API REST em Java e Spring Boot que registra cargas sensíveis e mantém uma trilha de auditoria com hash SHA-256 encadeado. Validação de entrada, testes automatizados e CI. Dados em memória.
