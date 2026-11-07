@@ -17,7 +17,7 @@ PostgreSQL
 - **[AgroGuard Dashboard](https://github.com/alba-morgana09/agroguard-api)** · [demo ao vivo](https://alba-morgana09.github.io/agroguard-api/): painel interativo em React e TypeScript com simulação de cenários e verificação de integridade. Dados simulados.
 
 ## Bagagem
-Experiência em **comércio exterior e logística**, com foco em processos, conformidade e dados. Participei do minicurso de desenvolvimento e dados '**<div>a 5.0 (CITi)**', em outubro de 2026.
+Experiência em **comércio exterior e logística**, com foco em processos, conformidade e dados. Participei do minicurso de desenvolvimento e dados <div>a 5.0 (CITi), em outubro de 2026.
 
 ## Contato
 [Portfólio](https://alba-morgana09.github.io/meu-portfolio/) · [LinkedIn](https://www.linkedin.com/in/albamorgana/) · albamorgana9@gmail.com
